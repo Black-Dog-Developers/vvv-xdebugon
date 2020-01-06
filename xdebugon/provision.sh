@@ -2,4 +2,4 @@
 
 echo "Restarting xdebug"
 
-xdebug_on
+/srv/config/homebin/xdebug_on
